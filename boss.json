@@ -1,0 +1,9 @@
+{
+	"name": "Delphi/FreePascal STOMP Client",
+	"description": "STOMP client for Embarcadero Delphi and FreePascal.",
+	"version": "1.0.0",
+	"homepage": "http://www.danieleteti.it/",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
